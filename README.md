@@ -1,7 +1,7 @@
-git add .
+git add . => stage
 git commit -m "메시지"
-git log
-git status
+git log => 커밋된거 확인
+git status => stage 확인
 git config --global user.email "이메일"
 git config --global user.name "유저네임"
 
