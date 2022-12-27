@@ -4,3 +4,5 @@ git log
 git status
 git config --global user.email "이메일"
 git config --global user.name "유저네임"
+
+문서작성 잘하고싶다.
